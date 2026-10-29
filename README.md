@@ -2,6 +2,8 @@
 ## Temática y Nombre
 - **Temática:** Música nocturna con estilo oscuro y colores neón.
 - **Nombre:** Vibe Station
+
+
 Bienvenido a **Vibe Station**, la cabina de música nocturna ambientada en tonos neón Oscuro y Violeta/Cian.
 
 ## Componente Nuevo: Ánimo de la Cabina (`CabinaMood.jsx`)
