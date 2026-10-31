@@ -9,4 +9,4 @@ Bienvenido a **Vibe Station**, tu cabina de música nocturna para descubrir canc
 ¿No sabes qué escuchar? La ruleta elige una canción de la playlist y permite pedir otra sorpresa o sumar la recomendación directamente a la cola de pedidos.
 
 ## Despliegue
-Pega aquí el enlace de tu despliegue en Vercel (ejemplo: https://vibe-station.vercel.app)
+Pega aquí el enlace de tu despliegue en Vercel (https://vibe-station-two.vercel.app/)
