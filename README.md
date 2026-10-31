@@ -1,13 +1,12 @@
-# VibeStation
+# Vibe Station
 ## Temática y Nombre
-- **Temática:** Música nocturna con estilo oscuro y colores neón.
+- **Temática:** Radio retro-futurista nocturna, con fondo oscuro y colores neón ámbar y turquesa.
 - **Nombre:** Vibe Station
 
+Bienvenido a **Vibe Station**, tu cabina de música nocturna para descubrir canciones, marcar favoritas y gestionar pedidos.
 
-Bienvenido a **Vibe Station**, la cabina de música nocturna ambientada en tonos neón Oscuro y Violeta/Cian.
-
-## Componente Nuevo: Ánimo de la Cabina (`CabinaMood.jsx`)
-Este componente permite cambiar la vibra visual y el mensaje de estado de la cabina según tu energía nocturna (Tranquilo, Enérgico, Lo-Fi, Neón Cyber).
+## Componente Nuevo: Ruleta nocturna (`RuletaNocturna.jsx`)
+¿No sabes qué escuchar? La ruleta elige una canción de la playlist y permite pedir otra sorpresa o sumar la recomendación directamente a la cola de pedidos.
 
 ## Despliegue
 Pega aquí el enlace de tu despliegue en Vercel (ejemplo: https://vibe-station.vercel.app)
