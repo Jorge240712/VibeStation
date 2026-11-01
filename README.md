@@ -5,6 +5,9 @@
 
 Bienvenido a **Vibe Station**, tu cabina de música nocturna para descubrir canciones, marcar favoritas y gestionar pedidos.
 
+<img width="801" height="632" alt="image" src="https://github.com/user-attachments/assets/37199697-3e1d-4e38-a7a2-a335f40d891b" />
+
+
 ## Componente Nuevo: Ruleta nocturna (`RuletaNocturna.jsx`)
 ¿No sabes qué escuchar? La ruleta elige una canción de la playlist y permite pedir otra sorpresa o sumar la recomendación directamente a la cola de pedidos.
 
